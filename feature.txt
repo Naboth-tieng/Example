@@ -1,1 +1,2 @@
 Hello, Git!!
+After cloning the Example i have changed this text file
